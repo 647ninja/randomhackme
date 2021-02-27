@@ -1,0 +1,12 @@
+Linux Fundamentals
+Networking Fundamentals
+Web Hacking Fundamentals
+Cryptography
+Windows Fundamentals
+Shells and Privilege Escalation
+Basic Computer Exploitation
+Threat and Vulnerability Management
+Security Operations & Monitoring
+Threat Emulation
+Incident Response and Forensics
+Malware Analysis
